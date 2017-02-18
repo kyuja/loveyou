@@ -15,7 +15,6 @@
 
   <script>
 
-//function a (){
   var url = "Book1.xlsx";
   var oReq = new XMLHttpRequest();
   oReq.open("GET", url, true);
@@ -50,7 +49,6 @@
 	  }
 
   oReq.send();
-//}
   </script>
 
 </body>
